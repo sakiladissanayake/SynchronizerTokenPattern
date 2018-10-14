@@ -8,7 +8,7 @@ Steps:
 
 2.Run xammp server
 
-2.Clone this project file and save it inside this folder - C:\\xampp\\htdocs\\
+3.Clone this project file and save it inside this folder - C:\\xampp\\htdocs\\
 
-3.Open the browser and type http://localhost/SynchronizerTokenPattern/login.php
+4.Open the browser and type http://localhost/SynchronizerTokenPattern/login.php
 
