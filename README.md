@@ -12,3 +12,5 @@ Steps:
 
 4.Open the browser and type http://localhost/SynchronizerTokenPattern/login.php
 
+For more information check the blog post - https://techgear17.blogspot.com/2018/10/synchronizer-token-pattern.html
+
